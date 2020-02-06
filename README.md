@@ -396,10 +396,6 @@ Airbnb: https://github.com/airbnb/javascript
 
 #### 在IDE中的配置
 
-- 以下是vscode中插件配置：
-
-![image-20190626120020180](./assets/image-20190626120020180.png)
-
 配置文件：
 
 ```json
